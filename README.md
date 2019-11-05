@@ -24,7 +24,7 @@
 
 ## 4. Query2
 - Security Misconfiguration
-  - Unauthenticated Remote Connections
+  - MongoDB - Unauthenticated Remote Connections
 
 ## 5. WTF!
 - Security Misconfiguration
