@@ -27,7 +27,7 @@
 - Security Misconfiguration
   - MongoDB - Unauthenticated Remote Connections
 
-## 5. WTF!
+## 5. Internal Threat
 - Security Misconfiguration
   - LogStash is running as root
   - Command injection
