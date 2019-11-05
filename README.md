@@ -1,6 +1,6 @@
 # We ❤️ FoodCyberSec
 
-## 1. DevMachine
+## 1. Dev Machine
 - SQL Injection
 - Broken Authentication
   - Session Management
