@@ -2,18 +2,25 @@
 
 ##1. DevMachine
 - SQL Injection
-- Broken Authentication (Session Management)
+- Broken Authentication
+  - Session Management
 - Broken Access Control
+  - Fail Authorization System
 - Security Misconfiguration
+  - PHP allows dangerous function.
 
 ## 2. Cry Cry Cry 
 - Samba EternalBlue on Linux
 
 ## 3. Query1
-- Injection
-- Insecure coding
+- SQL Injection
+  - parameter is not validated
 - Security Misconfiguration
+  - Unchecked uploaded files
+  - PHP allows dangerous function
 - Privilege Escalation
+  - Reverse Engineering
+  - Sticky Bit
 
 ## 4. Query2
 - Security Misconfiguration
@@ -21,14 +28,13 @@
 
 ## 5. WTF!
 - Security Misconfiguration
--- LogStash
---- Run as root
---- Command Injection
--- PHP insecure
+  - LogStash is running as root
+  - Command injection
+  - PHP insecure
 - File Inclusion
--- Null Bytes
+  - Null Bytes
 - Known Vulnarability
--- Kibana CVE-2018-17246
+  - Kibana CVE-2018-17246
 
 ## 6. Show Me The File
 - SQL Injection
