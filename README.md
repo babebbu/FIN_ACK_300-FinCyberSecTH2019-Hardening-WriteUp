@@ -11,6 +11,7 @@
 
 ## 2. Cry Cry Cry 
 - Samba EternalBlue on Linux
+  - Broken Access Control
 
 ## 3. Query1
 - SQL Injection
